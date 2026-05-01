@@ -109,4 +109,4 @@ croprecommender/
 **Md Afroj**  
 B.Tech(CSE) — Lovely Professional University, Punjab  
 📧 aliafroj8757@gmail.com  
-🐙 [github.com/awanitsingh](https://github.com/Mdafroj05)
+🐙 [github.com/Mdafroj05](https://github.com/Mdafroj05)
